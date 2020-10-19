@@ -11,9 +11,10 @@ El modelo implementado fue finalmente el siguiente,el presente repositorio conti
 ![equation](http://www.sciweavers.org/upload/Tex2Img_1603147732/render.png)
 
 ## Principales resultados 
-Se obtuvieron resultados como los siguientes :
+Se obtuvieron resultados para el ingreso promedio y brecha salarial, como los siguientes  :
 
 ![alt text](https://github.com/JesusRQP96/bayesian_implementation/blob/master/multinivel-med-avg-wage-figure.png)
+![alt text](https://github.com/JesusRQP96/bayesian_implementation/blob/master/multinivel-med-wage-gap-figure.png)
 
 
 
