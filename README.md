@@ -16,6 +16,11 @@ Se obtuvieron resultados para el ingreso promedio y brecha salarial, como los si
 ![alt text](https://github.com/JesusRQP96/bayesian_implementation/blob/master/multinivel-med-avg-wage-figure.png)
 ![alt text](https://github.com/JesusRQP96/bayesian_implementation/blob/master/multinivel-med-wage-gap-figure.png)
 
+# Analisis espacial de la BD  Pennsilvania : un enfoque bayesiano 
+En este proyecto se busca analisis la existencia de efectos espaciales en esta base de datos 
+## Analisis descriptivo espacial (ADE)
+![alt text](https://github.com/JesusRQP96/bayesian_implementation/blob/master/mapa_croropletico.png)
+
 
 
 
