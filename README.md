@@ -10,7 +10,9 @@ El modelo implementado en este estudio fue uno de corte bayesiano puesto que dic
 El modelo implementado fue finalmente el siguiente,el presente repositorio contiene los codigos base para implementar un modelo similar en *stan* aunque de menor complejidad 
 ![equation](http://www.sciweavers.org/upload/Tex2Img_1603147732/render.png)
 
-##Principales resultados 
+## Principales resultados 
+Se obtuvieron resultados como los siguientes :
+![alt text](https://github.com/JesusRQP96/Analisis-covid-19/blob/main/multinivel-med-avg-wage-figure-5 (1).png?raw=true)
 
 
 
