@@ -12,7 +12,8 @@ El modelo implementado fue finalmente el siguiente,el presente repositorio conti
 
 ## Principales resultados 
 Se obtuvieron resultados como los siguientes :
-![alt text](https://github.com/JesusRQP96/Analisis-covid-19/blob/main/multinivel-med-avg-wage-figure-5 (1).png?raw=true)
+
+![alt text](https://github.com/JesusRQP96/bayesian_implementation/blob/master/multinivel-med-avg-wage-figure-5%20(1).tiff)
 
 
 
