@@ -1,5 +1,5 @@
 # Analisis bayesiano
-* Analisis bayesiano modelo CAR empleando la base de datos Pennsilvania
+* Analisis espacial de la BD  Pennsilvania : un enfoque bayesiano 
 * Analisis multinivel de brecha de genero : Un enfoque espacial
 
 # Analisis multinivel de brecha de genero
