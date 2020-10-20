@@ -21,6 +21,10 @@ En este proyecto se busca analisis la existencia de efectos espaciales en esta b
 ## Analisis descriptivo espacial (ADE)
 ![alt text](https://github.com/JesusRQP96/bayesian_implementation/blob/master/mapa_croropletico.png)
 
+## Modelo espacial
+
+![alt text](http://www.sciweavers.org/upload/Tex2Img_1603153606/render.png)
+
 
 
 
